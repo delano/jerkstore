@@ -1,0 +1,20 @@
+= JerkStore, storing data on disk like an asshole
+
+== What is JerkStore?
+
+JerkStore is a database alternative for mostly-read applications. 
+
+
+= Why is it called JerkStore?
+
+Because you have to be an asshole to specifically not use a database.
+
+
+== What is the Project Status?
+
+_Pre-Alpha_
+
+I'm using JerkStore in my projects, but I don't recommend it yet for external consumption. It needs more training.
+
+
+
